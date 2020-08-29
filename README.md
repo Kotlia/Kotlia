@@ -3,4 +3,4 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-v1.4.0--RC-orange?style=for-the-badge&logo=Kotlin)](https://blog.jetbrains.com/kotlin/2020/07/kotlin-1-4-rc-debugging-coroutines/)
 [![Java](https://img.shields.io/badge/Java-v14.0.2-red?style=for-the-badge&logo=Java)](https://jdk.java.net/14/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ECMAScript%202020-e63900?style=for-the-badge&logo=JavaScript)](javascript.com)
-[![Node.js](https://img.shields.io/badge/Node.js-14.9.0-ff4da6?style=for-the-badge&logo=Node.js)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-v14.9.0-ff4da6?style=for-the-badge&logo=Node.js)](https://nodejs.org/)
