@@ -1,11 +1,13 @@
+# HI, I'm Kotlia
 
-__Stats__  
+## Stats
 
 ![Top Languages Card(Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotlia&layout=compact)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Kotlia&show_icons=true&count_private=true)
 
-__Languages__  
+## Languages
+
 Fluent in:  
  - Java  
  - Kotlin  
