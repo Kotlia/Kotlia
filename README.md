@@ -1,4 +1,4 @@
-![Portfolio](https://kotlia.me)
+[Portfolio](https://kotlia.me)
 
 ## Stats
 ![Top Languages Card(Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotlia&layout=compact)
